@@ -44,11 +44,14 @@ git clone https://github.com/ncsu-geoforall-lab/csdms-grass-2025.git
 
 - [Notebook 1: Getting Started](./01_Getting_Started.ipynb)
 
+- [Notebook 2: Swine Lagoons Case Study](./02_Case_Study.ipynb)
+
+
 **Break (10 min)**
 
 **Part 3 (50 min): _Creating Tangible Landscape Activities_**
 
-- [Notebook 1: Getting Started](./01_Getting_Started.ipynb)
+- [Notebook 3: Scripting for Tangible Landscape](./03_Tangible_Landscape.ipynb)
 
 - Live Demo with [Tangible Landscape](https://tangible-landscape.github.io/)
 
