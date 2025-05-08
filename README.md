@@ -2,7 +2,7 @@
 
 [jhub]: https://csdms.colorado.edu/wiki/JupyterHub
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-orange
-[jhub-link]: https://lab.openearthscape.org/hub/user-redirect/
+[jhub-link]: https://explore.openearthscape.org/
 [jhub-info]: https://csdms.colorado.edu/wiki/JupyterHub
 
 
